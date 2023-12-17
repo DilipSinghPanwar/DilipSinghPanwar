@@ -8,8 +8,8 @@ Hi 👋, I'm, I am an Aspiring Android Developer with good knowledge of Java, Ko
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=dilipsinghpanwar&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dilipsinghpanwar&theme=city_light&hide_border=true)<br/> -->
+<!--![](https://github-readme-stats.vercel.app/api?username=dilipsinghpanwar&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dilipsinghpanwar&theme=city_light&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsinghpanwar&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
@@ -21,7 +21,7 @@ Hi 👋, I'm, I am an Aspiring Android Developer with good knowledge of Java, Ko
 ---
 [![](https://visitcount.itsvg.in/api?id=dilipsinghpanwar&icon=0&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dilipsinghpanwar) 
 
   
