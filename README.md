@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Aspiring Android Developer with good knowledge of Java, Kotlin, Android Jetpack , MVVM and Modern Android Development practices.
+Hi 👋, I'm, I am an Aspiring Android Developer with good knowledge of Java, Kotlin, Android Jetpack , MVVM and Modern Android Development practices.
 
 
 ## 🌐 Socials:
