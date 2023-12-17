@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm, I am an Aspiring Android Developer with good knowledge of Java, Kotlin, Android Jetpack , MVVM and Modern Android Development practices.
 
+[![](https://visitcount.itsvg.in/api?id=dilipsinghpanwar&icon=5&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dilipsinghpanwar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilip-singh-panwar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4566384) 
 
@@ -17,9 +19,6 @@ Hi 👋, I'm, I am an Aspiring Android Developer with good knowledge of Java, Ko
 
 ### 😂Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-[![](https://visitcount.itsvg.in/api?id=dilipsinghpanwar&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dilipsinghpanwar) 
